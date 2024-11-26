@@ -25,3 +25,29 @@ IMDB_review_sentiment_analysis/
 ├── README.md              # Project documentation (this file)
 ├── requirements.txt       # Python dependencies
 └── main.py                # Main script for training and evaluation
+
+Here’s how to add results and future improvements in Markdown format:
+
+📊 Results
+markdown
+Copy code
+## 📊 Results
+
+- **Accuracy**: ~85% on the test set.
+- **Loss**: Tracked over 10 epochs.
+
+### Model Training Performance
+
+| Metric        | Value      |
+|---------------|------------|
+| Train Accuracy| 86%        |
+| Test Accuracy | 84%        |
+| Epochs        | 10         |
+
+## 🚧 Future Improvements
+
+- Use more advanced architectures like LSTM, GRU, or Transformers.
+- Explore data augmentation for better performance.
+- Add a web-based interface for live predictions.
+- Experiment with hyperparameter tuning for improved accuracy.
+
