@@ -25,8 +25,7 @@ IMDB_review_sentiment_analysis/
 ├── README.md              # Project documentation (this file)
 ├── requirements.txt       # Python dependencies
 └── main.py                # Main script for training and evaluation
-
-
+```
 ## 📊 Results
 
 - **Accuracy**: ~85% on the test set.
