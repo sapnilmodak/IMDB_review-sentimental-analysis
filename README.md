@@ -26,11 +26,7 @@ IMDB_review_sentiment_analysis/
 ├── requirements.txt       # Python dependencies
 └── main.py                # Main script for training and evaluation
 
-Here’s how to add results and future improvements in Markdown format:
 
-📊 Results
-markdown
-Copy code
 ## 📊 Results
 
 - **Accuracy**: ~85% on the test set.
